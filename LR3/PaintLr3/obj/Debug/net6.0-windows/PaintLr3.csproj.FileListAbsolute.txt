@@ -1,0 +1,17 @@
+C:\Labs\AllLabs\LR3\PaintLr3\bin\Debug\net6.0-windows\PaintLr3.exe
+C:\Labs\AllLabs\LR3\PaintLr3\bin\Debug\net6.0-windows\PaintLr3.deps.json
+C:\Labs\AllLabs\LR3\PaintLr3\bin\Debug\net6.0-windows\PaintLr3.runtimeconfig.json
+C:\Labs\AllLabs\LR3\PaintLr3\bin\Debug\net6.0-windows\PaintLr3.dll
+C:\Labs\AllLabs\LR3\PaintLr3\bin\Debug\net6.0-windows\PaintLr3.pdb
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\PaintLr3.csproj.AssemblyReference.cache
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\PaintLr3.Form1.resources
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\PaintLr3.csproj.GenerateResource.cache
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\PaintLr3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\PaintLr3.AssemblyInfoInputs.cache
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\PaintLr3.AssemblyInfo.cs
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\PaintLr3.csproj.CoreCompileInputs.cache
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\PaintLr3.dll
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\refint\PaintLr3.dll
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\PaintLr3.pdb
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\PaintLr3.genruntimeconfig.cache
+C:\Labs\AllLabs\LR3\PaintLr3\obj\Debug\net6.0-windows\ref\PaintLr3.dll
